@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'package:flutter/material.dart';
-import 'package:state_management_with_streams/screens/home_screen/widgets/user_details_widget.dart';
+import '/screens/home_screen/widgets/user_details_widget.dart';
 
 import '/model_utils/user_model_utils.dart';
 

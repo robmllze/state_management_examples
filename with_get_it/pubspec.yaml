@@ -1,4 +1,4 @@
-name: state_management_with_value_notifier
+name: with_provider_and_get_it
 
 publish_to: 'none'
 version: 1.0.0+1
@@ -16,6 +16,8 @@ dependencies:
   firebase_auth: ^4.17.0
   firebase_core: ^2.25.0
   json_annotation: ^4.8.1
+  get_it: ^7.6.7
+  provider: ^6.1.1
  
 
 dev_dependencies:

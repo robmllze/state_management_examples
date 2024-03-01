@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:state_management_with_streams/models/user_model/user_model.dart';
+import '/models/user_model/user_model.dart';
 
 class UserDetailsWidget extends StatelessWidget {
   const UserDetailsWidget({

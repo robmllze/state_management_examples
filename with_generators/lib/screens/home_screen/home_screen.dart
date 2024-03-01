@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:state_management_with_pod_and_generators/models/model_user/model_user.dart';
 import 'package:xyz_pod/xyz_pod.dart';
 
 import '/main.dart';
+import '/models/model_user/model_user.dart';
 import '/model_utils/user_model_utils.dart';
 
 class HomeScreen extends StatefulWidget {

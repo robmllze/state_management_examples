@@ -1,4 +1,4 @@
-name: state_management_with_streams
+name: with_pod_and_generators
 
 publish_to: 'none'
 version: 1.0.0+1
@@ -15,7 +15,10 @@ dependencies:
   cloud_firestore: ^4.15.0
   firebase_auth: ^4.17.0
   firebase_core: ^2.25.0
-  json_annotation: ^4.8.1
+
+
+  xyz_pod: ^0.14.3
+  xyz_gen: ^0.31.0
  
 
 dev_dependencies:
@@ -23,8 +26,6 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
-  json_serializable: ^6.7.1
-  build_runner: ^2.4.8
 
 flutter:
 
